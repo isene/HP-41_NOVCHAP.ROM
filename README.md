@@ -40,3 +40,6 @@ Some of the challenges in MCODE has to do with calculating jump codes. I used to
 
 Go to the ICEBOX page (https://github.com/isene/hp-41_icebox) for more information and for the program listing.
 
+## License
+This software is released into the Public Domain.
+
