@@ -1,4 +1,11 @@
 # HP-41_NOVCHAP.ROM
+
+[![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![License](https://img.shields.io/badge/License-Public%20Domain-brightgreen.svg)](https://unlicense.org/)
+[![GitHub stars](https://img.shields.io/github/stars/isene/HP-41_NOVCHAP.ROM.svg)](https://github.com/isene/HP-41_NOVCHAP.ROM/stargazers)
+[![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
+
 An HP-41 rom enhancing the family of NoVRAM modules
 
 ## The NOV CHAP rom - version I
