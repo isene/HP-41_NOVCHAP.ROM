@@ -7,6 +7,7 @@
 [![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
 
 <img src="img/novchap_rom_logo.svg" align="left" width="150" height="150" alt="NOVCHAP ROM Logo">
+<br clear="left"/>
 
 An HP-41 rom enhancing the family of NoVRAM modules
 
