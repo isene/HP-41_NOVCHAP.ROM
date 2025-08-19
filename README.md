@@ -1,5 +1,3 @@
-<img src="img/novchap_rom_logo.svg" align="left" width="150" height="150" alt="NOVCHAP ROM Logo">
-
 # HP-41_NOVCHAP.ROM
 
 [![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
@@ -7,6 +5,8 @@
 [![License](https://img.shields.io/badge/License-Public%20Domain-brightgreen.svg)](https://unlicense.org/)
 [![GitHub stars](https://img.shields.io/github/stars/isene/HP-41_NOVCHAP.ROM.svg)](https://github.com/isene/HP-41_NOVCHAP.ROM/stargazers)
 [![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
+
+<img src="img/novchap_rom_logo.svg" align="left" width="150" height="150" alt="NOVCHAP ROM Logo">
 
 An HP-41 rom enhancing the family of NoVRAM modules
 
